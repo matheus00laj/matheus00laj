@@ -19,7 +19,7 @@
   Linguagens Mais Utilizadas:
   <img align="center" alt="Math-C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"">
   <img align="center" alt="Math-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <a href = "https://github.com/matheus00laj/Atividade-Java-Dio-1"><img align="center" alt="Math-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank"> </a>
+  <img align="center" alt="Math-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
    
   
 </div>
