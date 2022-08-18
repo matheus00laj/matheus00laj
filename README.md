@@ -15,14 +15,8 @@
  
   
 
-<div style="display: inline_block"><br>
-  Linguagens Mais Utilizadas:
-  <img align="center" alt="Math-C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"">
-  <img align="center" alt="Math-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Math-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
-   
-  
-</div>
+
+##
                                                                                                                                                   
 <div> 
   <a href = "mailto:matheus00laj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
