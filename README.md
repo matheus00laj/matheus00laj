@@ -8,7 +8,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheus00laj&show_icons=true&theme=vue-dark&hide_border=true&dahide_border=true&dainclude_all_commits=true&count_private=true"/>
  <img height= "140cm" src="http://github-readme-streak-stats.herokuapp.com?user=matheus00laj&theme=vue-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br"/>
  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus00laj&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
+  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus00laj&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
 </div>
   
   </div>
